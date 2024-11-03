@@ -7,6 +7,8 @@ This project involves designing an interactive Power BI dashboard to analyze Ama
 The Amazon Sales Dashboard was developed to visualize and monitor sales performance across different segments. With a user-friendly interface, it offers in-depth views of sales metrics, product categories, regional performance, and more. This dashboard can help stakeholders quickly understand sales trends and take necessary actions to improve performance and customer satisfaction.
 
 ## Video Demo
+https://github.com/user-attachments/assets/6ca0b2ae-3823-480b-9158-20236c901ce5
+
 
 ## Key Features and Insights
 
